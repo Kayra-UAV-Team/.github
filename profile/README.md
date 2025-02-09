@@ -4,4 +4,4 @@
 We are from some students from Sancaktepe Technology Mediterrian Imam Hatip Highschool.
 
 ## What are we doing
-We've been making a VTOL which can drop drones.
+We've been making a VTOL.
